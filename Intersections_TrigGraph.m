@@ -1,6 +1,5 @@
 %Credits to the owner, Douglas Schwatz
-%Link to source
-https://www.mathworks.com/matlabcentral/fileexchange/11837-fast-and-robust-curve-intersections
+%Link to source: https://www.mathworks.com/matlabcentral/fileexchange/11837-fast-and-robust-curve-intersections
 
 function [x0,y0,iout,jout] = intersections3(x1,y1,x2,y2,robust)
 %INTERSECTIONS Intersections of curves.
